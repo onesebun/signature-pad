@@ -1,7 +1,7 @@
 {
-  "name": "onesebun-signature-pad",
+  "name": "signature-pad",
   "version": "1.0.0",
-  "description": "onesebun-signature-pad React component",
+  "description": "signature-pad React component",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -33,5 +33,11 @@
   "repository": "",
   "keywords": [
     "react-component"
-  ]
+  ],
+  "dependencies": {
+    "pressure": "^2.2.0",
+    "prop-types": "^15.8.1",
+    "react-sparklines": "^1.7.0",
+    "signature_pad": "2.2.0"
+  }
 }

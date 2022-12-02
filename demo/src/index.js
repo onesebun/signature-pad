@@ -6,7 +6,7 @@ import Example from '../../src'
 export default class Demo extends Component {
   render() {
     return <div>
-      <h1>onesebun-signature-pad Demo</h1>
+      <h1>signature-pad Demo</h1>
       <Example/>
     </div>
   }
